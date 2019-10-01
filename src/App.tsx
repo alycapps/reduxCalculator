@@ -114,7 +114,7 @@ class App extends Component<{}, State> {
   public render() {
     return (
       <div className="App">
-        <h1>Typescript Calulator</h1>
+        <h1>Redux & Typescript Calulator</h1>
         <div className="container">
         
         {/* row where num1 operator and num2 is displayed */}
